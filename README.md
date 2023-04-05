@@ -1,6 +1,6 @@
 # Convertoo Frontend Coding Test
 
-> Congratulation on making it to the coding test section of the interview process, in this test, you will be building a simple landing page with a registration form using NuxtJS and TailwindCSS.
+> Congratulations on making it to the coding test section of the interview process, in this test, you will be building a simple landing page with a registration form using NuxtJS and TailwindCSS.
 
 ## Project Setup
 
